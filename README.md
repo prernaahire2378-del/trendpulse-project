@@ -417,6 +417,8 @@ Working on TrendPulse helped me practice several important data analysis skills.
 
 ## ⚠️ Limitations
 
+- **Fallback categorization:** 86 of the 125 collected stories matched none of the title keywords and were assigned to whichever category still had room, so category averages (including Sports at 243.56) compare buckets rather than true topics. Treat them as descriptive only.
+
 Although TrendPulse provides a useful introduction to data analysis, there are a few limitations to keep in mind.
 
 - **Single collection:** The findings represent one collection of stories from April 6, 2026. They may not represent Hacker News activity on other days.
